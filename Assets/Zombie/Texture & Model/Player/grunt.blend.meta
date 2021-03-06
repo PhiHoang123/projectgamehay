@@ -1,12 +1,212 @@
 fileFormatVersion: 2
 guid: 6c0c8592bbb4c96459e144c109b420d8
 ModelImporter:
-  serializedVersion: 19300
+  serializedVersion: 19301
   internalIDToNameTable:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau"
+    second: {fileID: 2100000, guid: 1155084190c891740bacec23b511408e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.001"
+    second: {fileID: 2100000, guid: 81b6d0982d116364ea16ef40e5a97c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.002"
+    second: {fileID: 2100000, guid: d044c5c1f8efe564696b72f759e751c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.003"
+    second: {fileID: 2100000, guid: 452e7ec4b1e80a44f82e13ab8ce9fe1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.004"
+    second: {fileID: 2100000, guid: 58ed3b6fc1a214a4daf3147e37c858ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.005"
+    second: {fileID: 2100000, guid: 8a81e2c788c1f844db15851a6902e215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.006"
+    second: {fileID: 2100000, guid: b1088a4cc08fbc542aaae1d3d75f9bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.007"
+    second: {fileID: 2100000, guid: d210d013b9a10a543a231f846f18a54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.008"
+    second: {fileID: 2100000, guid: b4465c3bc8ce2bb4389abdb85b4be49c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.009"
+    second: {fileID: 2100000, guid: 03e987f3733780541a206b73a1a56da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.010"
+    second: {fileID: 2100000, guid: 6a3bab0b07e93fb48882f028b241fea9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.011"
+    second: {fileID: 2100000, guid: 6e94fd8c53aabca409843ce927281302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.012"
+    second: {fileID: 2100000, guid: e97bd52685f4a79439d3d500003b861a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.013"
+    second: {fileID: 2100000, guid: 248cdaa555dae55428c8059fc3b5509a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.014"
+    second: {fileID: 2100000, guid: e6d9d5c7f8aef5744872068abf200873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.015"
+    second: {fileID: 2100000, guid: 34ba145bb85a005499a642af002b80a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.016"
+    second: {fileID: 2100000, guid: 2cecdbfde252aeb458e63400a84e2bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Mat\xE9riau.017"
+    second: {fileID: 2100000, guid: 2151cae7c19e1ce4b87651e419ca44a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bandana
+    second: {fileID: 2100000, guid: 5ead83b93bc493349855533f99b8857d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth
+    second: {fileID: 2100000, guid: 6abc9d0dc4883d547a0e130e5e4ddf05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth.001
+    second: {fileID: 2100000, guid: 63d64a1b48e4f8e4096614c842303949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth.002
+    second: {fileID: 2100000, guid: aeb22c67c26cd564d95372dc70f426de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hank cloth 2
+    second: {fileID: 2100000, guid: 3266b4b54087ef64c84795d0ce68e5cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hank cloth 2.001
+    second: {fileID: 2100000, guid: ea6b849c7ad3c7d4b859757d63ee250a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hank cloth 2.002
+    second: {fileID: 2100000, guid: 7ee8516990dda2c4b9d8988d87958351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hank cloth 2.003
+    second: {fileID: 2100000, guid: c62f39eb292777349a4ba11d0e7987a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hank gkalses 1
+    second: {fileID: 2100000, guid: 3308c3b338935e54d9da513388c444c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth zombie
+    second: {fileID: 2100000, guid: 1139afa07be8ba54caa6f57b7f6bcde1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt
+    second: {fileID: 2100000, guid: ddc154d58e2d2ed47b493ab85c5cad84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt.001
+    second: {fileID: 2100000, guid: 41fd3a0ca619e2147a1a00ebcfbfced3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoe
+    second: {fileID: 2100000, guid: 7ce917e12f099d942a69991c4dbaa590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoe AGENT
+    second: {fileID: 2100000, guid: dc42bf5ad51b13d45911cb37aa8f5d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+    second: {fileID: 2100000, guid: e9e88ad464e94a14bb21997246bcea6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin zombie
+    second: {fileID: 2100000, guid: 608f4c5e989ec2d4d8db2d26ad08a8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin zombie.001
+    second: {fileID: 2100000, guid: d8e12f816e09d1146bccd244abdc5454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin zombie.002
+    second: {fileID: 2100000, guid: d6c50d982b9001d43ac54c0677baed84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin.001
+    second: {fileID: 2100000, guid: c15bbb504bd53574ea4402c3c604b5dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smoking
+    second: {fileID: 2100000, guid: 2204d2b2088aa5e499679bcff8acc0d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 9c3158a51297aaf4098af9bd4df10d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tricki hair
+    second: {fileID: 2100000, guid: 7b8282370ea2b654ebbae9526e09d354, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -46,6 +246,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
