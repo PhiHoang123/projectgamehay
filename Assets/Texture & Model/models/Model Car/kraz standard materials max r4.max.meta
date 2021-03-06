@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 49ec87b10a597144ab46270753f4313f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: body 1
+    100004: body 2
+    100006: chrome
+    100008: chrome 1
+    100010: chrome 2
+    100012: glass
+    100014: glass 1
+    100016: glass 2
+    100018: glass 3
+    100020: grey
+    100022: gum
+    100024: gum 1
+    100026: gum 2
+    100028: //RootNode
+    100030: Object03
+    100032: plate
+    100034: red
+    100036: tarpaulin
+    100038: tire
+    100040: tire 1
+    100042: tire 2
+    100044: tire 3
+    100046: tire 4
+    100048: tire 5
+    100050: tire 6
+    100052: wheel
+    100054: wheel 1
+    100056: wheel 2
+    100058: wheel 3
+    100060: wheel 4
+    100062: wheel 5
+    100064: wheel 6
+    100066: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100068: "\xD7\xFE\xD7\xFC"
+    400000: body
+    400002: body 1
+    400004: body 2
+    400006: chrome
+    400008: chrome 1
+    400010: chrome 2
+    400012: glass
+    400014: glass 1
+    400016: glass 2
+    400018: glass 3
+    400020: grey
+    400022: gum
+    400024: gum 1
+    400026: gum 2
+    400028: //RootNode
+    400030: Object03
+    400032: plate
+    400034: red
+    400036: tarpaulin
+    400038: tire
+    400040: tire 1
+    400042: tire 2
+    400044: tire 3
+    400046: tire 4
+    400048: tire 5
+    400050: tire 6
+    400052: wheel
+    400054: wheel 1
+    400056: wheel 2
+    400058: wheel 3
+    400060: wheel 4
+    400062: wheel 5
+    400064: wheel 6
+    400066: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400068: "\xD7\xFE\xD7\xFC"
+    2100000: body
+    2100002: chrome
+    2100004: plate
+    2100006: grey
+    2100008: gum
+    2100010: red
+    2100012: tire
+    2100014: wheel
+    2100016: glass
+    2100018: tarpaulin
+    2300000: body
+    2300002: body 1
+    2300004: body 2
+    2300006: chrome
+    2300008: chrome 1
+    2300010: chrome 2
+    2300012: glass
+    2300014: glass 1
+    2300016: glass 2
+    2300018: glass 3
+    2300020: grey
+    2300022: gum
+    2300024: gum 1
+    2300026: gum 2
+    2300028: Object03
+    2300030: plate
+    2300032: red
+    2300034: tarpaulin
+    2300036: tire
+    2300038: tire 1
+    2300040: tire 2
+    2300042: tire 3
+    2300044: tire 4
+    2300046: tire 5
+    2300048: tire 6
+    2300050: wheel
+    2300052: wheel 1
+    2300054: wheel 2
+    2300056: wheel 3
+    2300058: wheel 4
+    2300060: wheel 5
+    2300062: wheel 6
+    3300000: body
+    3300002: body 1
+    3300004: body 2
+    3300006: chrome
+    3300008: chrome 1
+    3300010: chrome 2
+    3300012: glass
+    3300014: glass 1
+    3300016: glass 2
+    3300018: glass 3
+    3300020: grey
+    3300022: gum
+    3300024: gum 1
+    3300026: gum 2
+    3300028: Object03
+    3300030: plate
+    3300032: red
+    3300034: tarpaulin
+    3300036: tire
+    3300038: tire 1
+    3300040: tire 2
+    3300042: tire 3
+    3300044: tire 4
+    3300046: tire 5
+    3300048: tire 6
+    3300050: wheel
+    3300052: wheel 1
+    3300054: wheel 2
+    3300056: wheel 3
+    3300058: wheel 4
+    3300060: wheel 5
+    3300062: wheel 6
+    4300000: body
+    4300002: chrome
+    4300004: chrome
+    4300006: chrome
+    4300008: plate
+    4300010: grey
+    4300012: gum
+    4300014: red
+    4300016: tire
+    4300018: wheel
+    4300020: wheel
+    4300022: tire
+    4300024: wheel
+    4300026: tire
+    4300028: wheel
+    4300030: tire
+    4300032: tire
+    4300034: wheel
+    4300036: tire
+    4300038: wheel
+    4300040: tire
+    4300042: wheel
+    4300044: glass
+    4300046: body
+    4300048: gum
+    4300050: body
+    4300052: gum
+    4300054: glass
+    4300056: glass
+    4300058: glass
+    4300060: tarpaulin
+    4300062: Object03
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
